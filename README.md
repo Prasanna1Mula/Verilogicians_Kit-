@@ -14,14 +14,14 @@
 ## 🗂 Repository Structure
 ```bash
 verilogicians_kit/
-├── 📁 basics/               # Logic gates, Boolean Alegbric Functions, Combinational Circuits(MUXes, Decoders, Encoders) 
-├── 📁 sequential/           # Flip-flops, Counters, Registers
-├── 📁 fsm/                  # Mealy/Moore Machines
-├── 📁 arithmetic/           # Adders, Multipliers, ALUs
-├── 📁 advanced/             # Pipelining, CDC, Optimization
-├── 📁 projects/             # Complete systems (UART, SPI, I2C)
-├── 📁 testbenches/          # Verification code
-└── 📁 docs/                 # Cheatsheets, References
+ 📁 basics               # Logic gates, Boolean Alegbric Functions, Combinational Circuits(MUXes, Decoders, Encoders) 
+ 📁 sequential           # Flip-flops, Counters, Registers
+ 📁 fsm                  # Mealy/Moore Machines
+ 📁 arithmetic           # Adders, Multipliers, ALUs
+ 📁 advanced             # Pipelining, CDC, Optimization
+ 📁 projects             # Complete systems (UART, SPI, I2C)
+ 📁 testbenches          # Verification code
+ 📁 docs                 # Cheatsheets, References
 ```
 ---
 
