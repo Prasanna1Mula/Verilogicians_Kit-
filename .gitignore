@@ -1,0 +1,69 @@
+# ========================
+# General Verilog Artifacts
+# ========================
+*.vcd
+*.vvp
+*.out
+*.log
+*.dump
+*.txt
+*.mem
+*.hex
+
+# ========================
+# Icarus Verilog
+# ========================
+*.vvp         # Compiled simulation file
+*.vcd         # Simulation waveform output
+*.lst         # List files
+*.o           # Object files
+*.i           # Preprocessed source
+
+# ========================
+# Vivado Project Files
+# ========================
+*.xpr         # Vivado project file
+*.xpr.cache/
+*.Xil/
+*.runs/
+*.ip_user_files/
+*.sim/
+*.hw/
+*.cache/
+*.webtalk/
+*.jou         # Journal files
+*.str
+*.wdb
+*.dmp
+*.ltx
+*.tcl
+*.xml
+
+# ========================
+# Vivado Auto-Generated Files
+# ========================
+*.bit
+*.bin
+*.elf
+*.mmi
+*.prm
+*.f
+*.pb
+*.bgn
+*.dcp
+*.syr
+*.ngc
+*.ngr
+*.ncd
+*.ncf
+
+# ========================
+# Editor & OS files
+# ========================
+.vscode/
+*.swp
+*.swo
+*.tmp
+*~
+.DS_Store
+Thumbs.db
