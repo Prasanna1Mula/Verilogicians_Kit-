@@ -3,6 +3,6 @@ module not_gate (
   output out 
 ); 
 
-  assign out = a & ~a; 
+  assign out =  ~a; 
 
 endmodule 
